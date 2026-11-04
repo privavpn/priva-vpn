@@ -4,7 +4,7 @@
 
   ![Platform](https://img.shields.io/badge/platform-Android%208%2B-3ddc84)
   ![Protocol](https://img.shields.io/badge/protocol-WireGuard-88171a)
-  ![Release](https://img.shields.io/github/v/release/mohammad-a1998/priva-vpn)
+  ![Release](https://img.shields.io/github/v/release/privavpn/priva-vpn)
 
   Priva VPN is a clean, no-nonsense client focused on speed and privacy.
   No sign-up, no ads, no tracking — just import your subscription link and connect.
@@ -13,7 +13,7 @@
 
   - 🚀 **WireGuard-based** — fast, modern, and light on battery.
   - 🔒 **Private by design** — your keys are encrypted on your device and never leave it. No account, no personal data, no analytics.
-  - ⚡ **One-tap connect** with automatic fastest-server selection.
+  - ⚡ **One-tap connect.**
   - 📊 **Live status** — real-time download / upload speed and ping while connected.
   - 🟡 **Honest connection state** — a clear indicator when the link is up but weak, instead of spinning forever.
   - 🧩 **Split tunneling** — pick which apps use the VPN, or route by IP / domain; local network stays reachable.
